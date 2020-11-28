@@ -1,4 +1,4 @@
-// 11.	How do you convert a given String into int like the atoi()? 
+// 11.	How do you convert a given String into int like the atoi()Hello? 
 package strings_exp;
 
 import java.util.Scanner;
